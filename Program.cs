@@ -3,6 +3,6 @@ using System;
     {
         static void Main(string[] args)
         {
-		Console.write("Hola mundo");
+		Console.WriteLine("Hola mundo");
         }
     }
